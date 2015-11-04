@@ -13,7 +13,7 @@ defined('ABSPATH') or die('No script kiddies please !');
 
 add_filter('the_content','ma_fonction');
 function ma_fonction($content){
-	return str_replace('test', 'nimp', $content);
+	return str_replace('test', 'hello', $content);
 }
 
 add_action( 'plugins_loaded', 'myplugin_load_textdomain' );
