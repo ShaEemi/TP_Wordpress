@@ -6,3 +6,6 @@
 ### Installation
 * enregister le dossier tp_plugin dans le dossier plugin de wordpress et l'activer dans la partie plugin de votre wp_admin
 * n'est pas encore disponible dans les plugins de wordpress
+
+#### fichier : mon_plugin
+* ce fichier n'est pas à prendre en compte, ceci est un cours donné par Julien Maury
